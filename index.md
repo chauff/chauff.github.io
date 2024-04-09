@@ -5,6 +5,7 @@ subtitle: Spotify
 ---
 
 ## <img src="../img/news.png" height="50px"> News
+- <img src="../img/fireworks.png" height="30px"> Another PhD defense done! Peide Zhu defended his thesis titled [Towards Robust Automatic Question Generation For Learning](https://doi.org/10.4233/uuid:4e23fb2f-6539-44b7-bab2-6c6b2fd7ce8d).
 - <img src="../img/award.png" height="30px"> 11 (+1) information retrieval researchers discussing the future of IR evaluation at Dagstuhl turned into a [best paper award](https://arxiv.org/abs/2304.09161) at ICTIR 2023! [Photo](https://twitter.com/CharlotteHase/status/1683290714145447936) as proof!
 - <img src="../img/fireworks.png" height="30px"> One more PhD defense to celebrate in my lab: Gustavo Penha defended his PhD thesis on the topic of [Designing and Diagnosing Models for Conversational Search and Recommendation](https://doi.org/10.4233/uuid:acdfb704-6310-4b28-b884-4bd3e78b3f84) in May 2023.
 - <img src="../img/fireworks.png" height="30px"> Two SIGIR 2023 submissions accepted, one led by Nirmal Roy exploring the use of the voice modality for relevance assessments and one led by Samarth Bhargav on tip-of-the-tongue retrieval.
@@ -48,9 +49,9 @@ Email: claudia.hauff[at]gmail.com
 ## Current members of my TU Delft lab
 - Arthur Barbosa Câmara (PhD student, since 11/2018)
 - [Nirmal Roy](https://roynirmal.github.io/) (PhD student, since 09/2019)
-- [Peide Zhu](https://www.wis.ewi.tudelft.nl/zhu) (PhD student, since 11/2019)
 
 ## Past members of my TU Delft lab
+- Peide Zhu graduated in 2024 with a PhD thesis on [Towards Robust Automatic Question Generation For Learning](https://doi.org/10.4233/uuid:4e23fb2f-6539-44b7-bab2-6c6b2fd7ce8d).
 - [Gustavo Penha](https://guzpenha.github.io/guzblog/) graduated in 2023 with a PhD thesis on [Designing and Diagnosing Models for Conversational Search and Recommendation](https://doi.org/10.4233/uuid:acdfb704-6310-4b28-b884-4bd3e78b3f84).
 - Postdoc David Maxwell worked on a range of interactive IR problems (2020-2022).
 - Felipe Moraes graduated in 2022 with a PhD thesis on [Examining the Effectiveness of Collaborative Search Engines](https://doi.org/10.4233/uuid:9f8f9ffc-c3d9-4583-8903-25889233a95b).
