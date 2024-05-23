@@ -85,6 +85,7 @@ Email: claudia.hauff[at]gmail.com
 - TU Delft Blended Education tender (**10,000€**, 1 co-PI) to improve teaching in the Bachelor, September 2014
 
 ## <img src="../img/orga.png" height="50px"> Organizational duties and activities
+- Program co-chair of ECIR 2025
 - Track co-chair of the ECIR 2024 *Reproducibility* track
 - Program co-chair of SIGIR 2024
 - AAAI-24 Area Chair
