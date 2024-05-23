@@ -5,6 +5,7 @@ subtitle: Spotify
 ---
 
 ## <img src="../img/news.png" height="50px"> News
+- <img src="../img/fireworks.png" height="30px"> We are nearing the end of my former TU Delft lab. Another PhD is in the books: Arthur Barbosa Câmara did an amazing job and defended his thesis [Designing Search-as-Learning Systems](https://doi.org/10.4233/uuid:0fe3a6bb-1bc1-40e2-86b0-ec3d3aef9c77).
 - <img src="../img/fireworks.png" height="30px"> Another PhD defense done! Peide Zhu defended his thesis titled [Towards Robust Automatic Question Generation For Learning](https://doi.org/10.4233/uuid:4e23fb2f-6539-44b7-bab2-6c6b2fd7ce8d).
 - <img src="../img/award.png" height="30px"> 11 (+1) information retrieval researchers discussing the future of IR evaluation at Dagstuhl turned into a [best paper award](https://arxiv.org/abs/2304.09161) at ICTIR 2023! [Photo](https://twitter.com/CharlotteHase/status/1683290714145447936) as proof!
 - <img src="../img/fireworks.png" height="30px"> One more PhD defense to celebrate in my lab: Gustavo Penha defended his PhD thesis on the topic of [Designing and Diagnosing Models for Conversational Search and Recommendation](https://doi.org/10.4233/uuid:acdfb704-6310-4b28-b884-4bd3e78b3f84) in May 2023.
@@ -47,10 +48,10 @@ Email: claudia.hauff[at]gmail.com
 ```
 
 ## Current members of my TU Delft lab
-- Arthur Barbosa Câmara (PhD student, since 11/2018)
 - [Nirmal Roy](https://roynirmal.github.io/) (PhD student, since 09/2019)
 
 ## Past members of my TU Delft lab
+- Arthur Barbosa Câmara defended his PhD thesis [Designing Search-as-Learning Systems](https://doi.org/10.4233/uuid:0fe3a6bb-1bc1-40e2-86b0-ec3d3aef9c77) in 2024.
 - Peide Zhu graduated in 2024 with a PhD thesis on [Towards Robust Automatic Question Generation For Learning](https://doi.org/10.4233/uuid:4e23fb2f-6539-44b7-bab2-6c6b2fd7ce8d).
 - [Gustavo Penha](https://guzpenha.github.io/guzblog/) graduated in 2023 with a PhD thesis on [Designing and Diagnosing Models for Conversational Search and Recommendation](https://doi.org/10.4233/uuid:acdfb704-6310-4b28-b884-4bd3e78b3f84).
 - Postdoc David Maxwell worked on a range of interactive IR problems (2020-2022).
