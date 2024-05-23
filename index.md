@@ -18,9 +18,9 @@ subtitle: Spotify
 ## <img src="../img/career.png" height="50px"> My career
 For a brief and compact overview, take a look at my 1-page [CV](../documents/Hauff_shortCV.pdf). 
 
-I joined Spotify in August 2021, initially for a sabbatical and then switching to a permanent role in April 2022 as Staff Research Scientist.
+I joined Spotify in August 2021, initially for a sabbatical and then switching to a permanent role in April 2022 as Staff Research Scientist. 
 
-I worked as a faculty member (first as Assistant Professor, since 2018 as Associate Professor and since 2021 part-time) at the [Web Information Systems group](http://www.wis.ewi.tudelft.nl/),
+I worked as a faculty member (first as Assistant Professor, since 2018 as Associate Professor and 2021-2023 part-time) at the [Web Information Systems group](http://www.wis.ewi.tudelft.nl/),
  [Delft University of Technology](http://www.tudelft.nl/) between 2013 and 2023. Between 2011 and 2012 I was a Postdoc in the same group.
 I received my PhD in 2010 from the [University of Twente](https://www.utwente.nl/), where I worked in the 
 [Human Media Interaction group](http://hmi.ewi.utwente.nl/). 
