@@ -87,6 +87,7 @@ Email: claudia.hauff[at]gmail.com
 - Program co-chair of ECIR 2025
 - Track co-chair of the ECIR 2024 *Reproducibility* track
 - Program co-chair of SIGIR 2024
+- Invited keynote at UMAP 2024
 - AAAI-24 Area Chair
 - Track co-chair of the [CIKM 2023](https://cikm2023.github.io/) *Applied Research* track
 - Invited participant to the [Frontiers of Information Access Experimentation for Research and Education Dagstuhl seminar](https://www.dagstuhl.de/23031)
