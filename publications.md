@@ -5,6 +5,17 @@ title: Publications
 
 I can also be found on [Google Scholar](http://scholar.google.com/citations?user=gMUKVkkAAAAJ&hl=en) and [DBLP](https://dblp.org/pid/73/906.html).
 
+## 2024 
+
+<img src="../img/conference-paper.png" height="20px">
+Azin Ghazimatin, Ekaterina Garmash, Gustavo Penha, Kristen Sheets, Martin Achenbach, Oguz Semerci, Remi Galvez, Marcus Tannenberg, Sahitya Mantravadi, Divya Narayanan, Ofeliya Kalaydzhyan, Doug Cole, Ben Carterette, Ann Clifton, Paul Bennett, Claudia Hauff and Mounia Lalmas-Roelleke. *PODTILE: Facilitating Podcast Episode Browsing With Auto-generated Chapters*, CIKM (Applied track), 2024.
+
+<img src="../img/journal-article.png" height="20px">
+Guglielmo Faggioli, Laura Dietz, Charles L. A. Clarke, Gianluca Demartini, Matthias Hagen, Claudia Hauff, Noriko Kando, Evangelos Kanoulas, Martin Potthast, Benno Stein, Henning Wachsmuth. *Who Determines What Is Relevant? Humans or AI? Why Not Both?*, Communication of the  ACM, 2024.
+
+<img src="../img/conference-paper.png" height="20px"> 
+Peide Zhu, Arthur Câmara, Nirmal Roy, David Maxwell, Claudia Hauff. *On the Effects of Automatically Generated Adjunct Questions for Search as Learning*, CHIIR 2024.
+
 ## 2023 <img src="../img/award.png" height="30px"> <img src="../img/honorable.png" height="30px">
 
 <img src="../img/conference-paper.png" height="20px"> 
