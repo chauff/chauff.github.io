@@ -72,7 +72,7 @@ and [ZooKeeper](http://shop.oreilly.com/product/0636920028901.do).
 
 ### Web (and Database) Technology
 
-Between 2013/14 and 2021/22 I co-taught the first year Bachelor course *Web and Database Technology* at TU Delft. I taught the Web technology part, which turned out to be quite a challenge due to the wide variety of skill sets our incoming students possess (some work as Web developers, others have never written a single line of HTML before the start of this course) and the ever-changing nature of web technologies.
+Between 2013/14 and 2021/22 I co-taught the first year Bachelor course *Web and Database Technology* at TU Delft. I taught the Web technology part, which turned out to be quite a challenge due to the wide variety of skill sets our incoming students possess (some work as Web developers, others have never written a single line of HTML before the start of this course) and the ever-changing nature of web technologies. All (by now outdated) materials can be found at https://chauff.github.io/cse1500-web-transcripts/. 
 
 ### Information Retrieval
 
