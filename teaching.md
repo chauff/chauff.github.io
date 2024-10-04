@@ -22,7 +22,12 @@ I have supervised more than 45 BSc and MSc projects in the broad areas of *infor
 ## Courses
  
  Below are the resources I have developed for my courses (some are more up-to-date than others): 
- *Big Data Processing*, *Web and Database Technology* and *Information Retrieval*.
+*Web and Database Technology*, *Big Data Processing* and *Information Retrieval*.
+
+### Web (and Database) Technology
+
+Between 2013/14 and 2021/22 I co-taught the first-year Bachelor course *Web and Database Technology* at TU Delft. I taught the Web technology part, which turned out to be quite a challenge due to the wide variety of skill sets our incoming students possess (some work as Web developers, others have never written a single line of HTML before the start of this course) and the ever-changing nature of web technologies. All (by now relatively outdated) materials I created over the course of those years can be found at [https://chauff.github.io/cse1500-web-transcripts/](https://chauff.github.io/cse1500-web-transcripts/). 
+
 
 ### Big Data Processing
 
@@ -70,9 +75,6 @@ and [ZooKeeper](http://shop.oreilly.com/product/0636920028901.do).
 - [12 questions on Pig/Pig Latin](http://chauff.github.io/documents/bdp-quiz/pig.html)
 
 
-### Web (and Database) Technology
-
-Between 2013/14 and 2021/22 I co-taught the first year Bachelor course *Web and Database Technology* at TU Delft. I taught the Web technology part, which turned out to be quite a challenge due to the wide variety of skill sets our incoming students possess (some work as Web developers, others have never written a single line of HTML before the start of this course) and the ever-changing nature of web technologies. All (by now outdated) materials can be found at https://chauff.github.io/cse1500-web-transcripts/. 
 
 ### Information Retrieval
 
