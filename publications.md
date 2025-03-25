@@ -43,7 +43,7 @@ Leif Azzopardi, David Maxwell, Martin Halvey and Claudia Hauff. *Driven to Distr
 ## 2022 <img src="../img/award.png" height="30px">
 
 <img src="../img/industry-talk.png" height="20px"> 
-Mi Tian, Claudia Hauff and Praveen Chandar. *On the Challenges of Podcast Search at Spotify*, CIKM 2022 Industry Day. [[ACM Proceedings&#8594;]](https://dl.acm.org/doi/10.1145/3511808.3557518)
+Mi Tian, Claudia Hauff and Praveen Chandar. *On the Challenges of Podcast Search at Spotify*, CIKM 2022 Industry Day. [[ACM Proceedings&#8594;]](https://dl.acm.org/doi/10.1145/3511808.3557518) [[PDF Preprint&#8594;]](../documents/publications/CIKM2022-Tian.pdf)
 
 <img src="../img/conference-paper.png" height="20px"> 
 Peide Zhu, Zhen Wang, Claudia Hauff, Jie Yang and Avishek Anand. *Answer Quality Aware Aggregation for Extractive QA Crowdsourcing*, Findings of EMNLP 2022.
