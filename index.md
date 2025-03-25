@@ -5,7 +5,7 @@ subtitle: Spotify
 ---
 
 ## <img src="../img/news.png" height="50px"> News
-- <img src="../img/fireworks.png" height="30px"> Nirmal Roy is the final PhD student to successfully defend his thesis [Exploring the effects of interactive interfaces on user search behaviour](https://research.tudelft.nl/en/publications/exploring-the-effects-of-interactive-interfaces-on-user-search-be). 
+- <img src="../img/fireworks.png" height="30px"> Nirmal Roy is the final PhD student to successfully defend his thesis [Exploring the effects of interactive interfaces on user search behaviour](https://research.tudelft.nl/en/publications/exploring-the-effects-of-interactive-interfaces-on-user-search-be). Thus, as of June 2024 every member of my former lab at TU Delft has graduated. 
 - <img src="../img/fireworks.png" height="30px"> We are nearing the end of my former TU Delft lab. Another PhD is in the books: Arthur Barbosa Câmara did an amazing job and defended his thesis [Designing Search-as-Learning Systems](https://doi.org/10.4233/uuid:0fe3a6bb-1bc1-40e2-86b0-ec3d3aef9c77).
 - <img src="../img/fireworks.png" height="30px"> Another PhD defense done! Peide Zhu defended his thesis titled [Towards Robust Automatic Question Generation For Learning](https://doi.org/10.4233/uuid:4e23fb2f-6539-44b7-bab2-6c6b2fd7ce8d).
 - <img src="../img/award.png" height="30px"> 11 (+1) information retrieval researchers discussing the future of IR evaluation at Dagstuhl turned into a [best paper award](https://arxiv.org/abs/2304.09161) at ICTIR 2023! [Photo](https://twitter.com/CharlotteHase/status/1683290714145447936) as proof!
@@ -19,28 +19,19 @@ subtitle: Spotify
 ## <img src="../img/career.png" height="50px"> My career
 For a brief and compact overview, take a look at my 1-page [CV](../documents/Hauff_shortCV.pdf). 
 
-I joined Spotify in August 2021, initially for a sabbatical and then switching to a permanent role in April 2022 as Staff Research Scientist. 
+I joined Spotify in August 2021, initially for a sabbatical from my academic job but then switched to a permanent role as a staff research scientist in April 2022.
 
-I worked as a faculty member (first as Assistant Professor, since 2018 as Associate Professor and 2021-2023 part-time) at the [Web Information Systems group](http://www.wis.ewi.tudelft.nl/),
- [Delft University of Technology](http://www.tudelft.nl/) between 2013 and 2023. Between 2011 and 2012 I was a Postdoc in the same group.
+After a 2-year stint as a Postdoc, I worked as a faculty member at the [Web Information Systems group](http://www.wis.ewi.tudelft.nl/), [Delft University of Technology](http://www.tudelft.nl/) between 2013 and 2023. In 2016 and 2017 I received two prestigious personal grants from the Netherlands Organisation for Scientific Research (NWO) with a total funding of more than 1 million euros; this translated into several PhD/postdoc positions in the developing "search as learning" research area. Take a look at the [Dagstuhl Seminar](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17092) I co-organized on the topic to get an idea of what it was all about. 
+
 I received my PhD in 2010 from the [University of Twente](https://www.utwente.nl/), where I worked in the 
-[Human Media Interaction group](http://hmi.ewi.utwente.nl/). 
+[Human Media Interaction group](http://hmi.ewi.utwente.nl/).
+
 The [Otto-von-Guericke University of Magdeburg](https://www.uni-magdeburg.de/) in Germany was 
 my home during my undergraduate years as a student in computer science.
+
 In the past, I have worked on a variety of topics in the fields of information retrieval & data science, 
 including query performance prediction (the topic of [my PhD thesis](../documents/publications/thesis.pdf)), 
-social search, computational social science, 
-learning to search and IR for specific user groups.
-
-I have diverse research interests and am always happy to dive into a new area. Together with a number of PhD students at TU Delft I was focused on **how to incorporate search into the human learning process at scale**, **collaborative search**, and **conversational search**. In 2016 and 2017 I received two prestigious personal grants from the Netherlands Organisation for Scientific Research (NWO) with a total funding of more than 1 million euros; this translates into 4-5 PhD/postdoc positions in the developing "search as learning" research area. Take a look at the [Dagstuhl Seminar](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17092) I co-organized on the topic to get an idea of what it is about. 
-
-In 2018, I gave an [invited keynote](https://docs.google.com/presentation/d/e/2PACX-1vSfP28laIeF0CUrqvfDKBCQp8vp-SHgHpouZ5O7xVREVK0ky7WiGuGdmsJRS13caF9Fh3y3fuAzvFlM/embed?start=false&loop=false&delayms=3000) at the French IR conference [CORIA 2018](https://project.inria.fr/coriataln2018/fr/) on the topic of search as learning.
-
-<iframe class="slide-presentation" src="https://docs.google.com/presentation/d/e/2PACX-1vSfP28laIeF0CUrqvfDKBCQp8vp-SHgHpouZ5O7xVREVK0ky7WiGuGdmsJRS13caF9Fh3y3fuAzvFlM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-In 2021, I gave an [invited keynote](https://docs.google.com/presentation/d/e/2PACX-1vRT--7x9Vuu3gLY7s2PHWoEXDTGVrUuPi1CelWIx5IC8NagYJsJveYpBXWP2NbY2GNSgb1a_Dh7CP86/embed?start=false&loop=false&delayms=300) at the MICROS workshop, co-hosted at ECIR 2021 on the topic of conversational search.
-
-<iframe class="slide-presentation" src="https://docs.google.com/presentation/d/e/2PACX-1vRT--7x9Vuu3gLY7s2PHWoEXDTGVrUuPi1CelWIx5IC8NagYJsJveYpBXWP2NbY2GNSgb1a_Dh7CP86/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+social search, collaborative search, learning analytics, search as learning and IR for specific user groups.
 
 ## <img src="../img/contact.png" height="50px"> Contact
 
@@ -49,6 +40,7 @@ Email: claudia.hauff[at]gmail.com
 ```
 
 ## Past members of my TU Delft lab
+**With the last member graduating in June 2024, the lab is now closed down.**
 - Nirmal Roy defended his PhD thesis [Exploring the effects of interactive interfaces on user search behaviour](https://research.tudelft.nl/en/publications/exploring-the-effects-of-interactive-interfaces-on-user-search-be) in 2024.
 - Arthur Barbosa Câmara defended his PhD thesis [Designing Search-as-Learning Systems](https://doi.org/10.4233/uuid:0fe3a6bb-1bc1-40e2-86b0-ec3d3aef9c77) in 2024.
 - Peide Zhu graduated in 2024 with a PhD thesis on [Towards Robust Automatic Question Generation For Learning](https://doi.org/10.4233/uuid:4e23fb2f-6539-44b7-bab2-6c6b2fd7ce8d).
