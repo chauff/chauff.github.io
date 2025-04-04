@@ -5,6 +5,11 @@ title: Publications
 
 I can also be found on [Google Scholar](http://scholar.google.com/citations?user=gMUKVkkAAAAJ&hl=en) and [DBLP](https://dblp.org/pid/73/906.html).
 
+## 2025
+
+<img src="../img/conference-paper.png" height="20px">
+Maria Movin and Claudia Hauff. *Zero-shot Reranking with Large Language Models and Precomputed Ranking Features: Opportunities and Limitations*, SIGIR, 2025.
+
 ## 2024 
 
 <img src="../img/conference-paper.png" height="20px">
