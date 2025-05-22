@@ -23,7 +23,8 @@ Azin Ghazimatin, Ekaterina Garmash, Gustavo Penha, Kristen Sheets, Martin Achenb
 Guglielmo Faggioli, Laura Dietz, Charles L. A. Clarke, Gianluca Demartini, Matthias Hagen, Claudia Hauff, Noriko Kando, Evangelos Kanoulas, Martin Potthast, Benno Stein, Henning Wachsmuth. *Who Determines What Is Relevant? Humans or AI? Why Not Both?*, Communication of the  ACM, 2024. [[CACM&#8594;]](https://cacm.acm.org/opinion/who-determines-what-is-relevant-humans-or-ai-why-not-both/)
 
 <img src="../img/conference-paper.png" height="20px"> 
-Peide Zhu, Arthur Câmara, Nirmal Roy, David Maxwell, Claudia Hauff. *On the Effects of Automatically Generated Adjunct Questions for Search as Learning*, CHIIR 2024.
+Peide Zhu, Arthur Câmara, Nirmal Roy, David Maxwell, Claudia Hauff. *On the Effects of Automatically Generated Adjunct Questions for Search as Learning*, CHIIR 2024. [[ACM Proceedings&#8594;]](https://dl.acm.org/doi/10.1145/3627508.3638332)
+
 
 ## 2023 <img src="../img/award.png" height="30px"> <img src="../img/honorable.png" height="30px">
 
