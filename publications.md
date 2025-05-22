@@ -11,7 +11,8 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 Konstantina Palla, José Luis Redondo García, Claudia Hauff, Francesco Fabbri, Henrik Lindström, Daniel R. Taber, Andreas Damianou and Mounia Lalmas. *Policy-as-Prompt: Rethinking Content Moderation in the Age of Large Language Models*, FAccT, 2025. [[Preprint&#8594;]](https://arxiv.org/abs/2502.18695) 
 
 <img src="../img/conference-paper.png" height="20px">
-Maria Movin and Claudia Hauff. *Zero-shot Reranking with Large Language Models and Precomputed Ranking Features: Opportunities and Limitations*, SIGIR, 2025.
+Maria Movin and Claudia Hauff. *Zero-shot Reranking with Large Language Models and Precomputed Ranking Features: Opportunities and Limitations*, SIGIR, 2025. [[PDF&#8594;]](../documents/publications/SIGIR2025-Movin.pdf)
+
 
 ## 2024 
 
