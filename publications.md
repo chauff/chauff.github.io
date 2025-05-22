@@ -17,10 +17,10 @@ Maria Movin and Claudia Hauff. *Zero-shot Reranking with Large Language Models a
 ## 2024 
 
 <img src="../img/conference-paper.png" height="20px">
-Azin Ghazimatin, Ekaterina Garmash, Gustavo Penha, Kristen Sheets, Martin Achenbach, Oguz Semerci, Remi Galvez, Marcus Tannenberg, Sahitya Mantravadi, Divya Narayanan, Ofeliya Kalaydzhyan, Doug Cole, Ben Carterette, Ann Clifton, Paul Bennett, Claudia Hauff and Mounia Lalmas-Roelleke. *PODTILE: Facilitating Podcast Episode Browsing With Auto-generated Chapters*, CIKM (Applied track), 2024.
+Azin Ghazimatin, Ekaterina Garmash, Gustavo Penha, Kristen Sheets, Martin Achenbach, Oguz Semerci, Remi Galvez, Marcus Tannenberg, Sahitya Mantravadi, Divya Narayanan, Ofeliya Kalaydzhyan, Doug Cole, Ben Carterette, Ann Clifton, Paul Bennett, Claudia Hauff and Mounia Lalmas-Roelleke. *PODTILE: Facilitating Podcast Episode Browsing With Auto-generated Chapters*, CIKM (Applied track), 2024. [[Preprint&#8594;]](https://arxiv.org/abs/2410.16148) 
 
 <img src="../img/journal-article.png" height="20px">
-Guglielmo Faggioli, Laura Dietz, Charles L. A. Clarke, Gianluca Demartini, Matthias Hagen, Claudia Hauff, Noriko Kando, Evangelos Kanoulas, Martin Potthast, Benno Stein, Henning Wachsmuth. *Who Determines What Is Relevant? Humans or AI? Why Not Both?*, Communication of the  ACM, 2024.
+Guglielmo Faggioli, Laura Dietz, Charles L. A. Clarke, Gianluca Demartini, Matthias Hagen, Claudia Hauff, Noriko Kando, Evangelos Kanoulas, Martin Potthast, Benno Stein, Henning Wachsmuth. *Who Determines What Is Relevant? Humans or AI? Why Not Both?*, Communication of the  ACM, 2024. [[CACM&#8594;]](https://cacm.acm.org/opinion/who-determines-what-is-relevant-humans-or-ai-why-not-both/)
 
 <img src="../img/conference-paper.png" height="20px"> 
 Peide Zhu, Arthur Câmara, Nirmal Roy, David Maxwell, Claudia Hauff. *On the Effects of Automatically Generated Adjunct Questions for Search as Learning*, CHIIR 2024.
