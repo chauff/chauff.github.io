@@ -8,6 +8,9 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 ## 2025
 
 <img src="../img/conference-paper.png" height="20px">
+Gianluca Demartini, Claudia Hauff, Matthew Lease, Stefano Mizzaro, Kevin Roitero, Mark Sanderson, Falk Scholer, Chirag Shah, Damiano Spina, Paul Thomas, Arjen P. de Vries, Guido Zuccon. *Preaching to the ChoIR: Lessons IR Should Share with AI*, ICTIR, 2025.
+
+<img src="../img/conference-paper.png" height="20px">
 Konstantina Palla, José Luis Redondo García, Claudia Hauff, Francesco Fabbri, Henrik Lindström, Daniel R. Taber, Andreas Damianou and Mounia Lalmas. *Policy-as-Prompt: Rethinking Content Moderation in the Age of Large Language Models*, FAccT, 2025. [[Preprint&#8594;]](https://arxiv.org/abs/2502.18695) 
 
 <img src="../img/conference-paper.png" height="20px">
