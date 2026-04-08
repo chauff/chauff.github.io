@@ -5,6 +5,11 @@ title: Publications
 
 I can also be found on [Google Scholar](http://scholar.google.com/citations?user=gMUKVkkAAAAJ&hl=en) and [DBLP](https://dblp.org/pid/73/906.html).
 
+## 2026
+
+<img src="../img/conference-paper.png" height="20px">
+Ali Vardasbi, Gustavo Penha, Enrico Palumbo, Claudia Hauff, Hugues Bouchard and Mounia Lalmas. *As It Was: Aligning LLM Search Evaluation with Historical User Preferences*, SIGIR Industry track, 2026.
+
 ## 2025
 
 Gustavo Penha, Aleksandr V. Petrov, Claudia Hauff, Enrico Palumbo, Ali Vardasbi, Edoardo D'Amico, Francesco Fabbri, Alice Wang, Praveen Chandar, Henrik Lindstrom, Hugues Bouchard, Mounia Lalmas. *Do LLM-judges Align with Human Relevance in Cranfield-style Recommender Evaluation?*, 2025. [[Preprint&#8594;]](https://www.arxiv.org/abs/2511.23312) 
