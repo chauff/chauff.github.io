@@ -7,6 +7,8 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 
 ## 2026
 
+Maria Movin, Claudia Hauff, Aron Henriksson, Panagiotis Papapetrou. *Same Outcomes, Different Journeys: A Trace-Level Framework for Comparing Human and GUI-Agent Behavior in Production Search Systems*. [[Preprint&#8594;]](https://arxiv.org/abs/2604.07929) 
+
 <img src="../img/conference-paper.png" height="20px">
 Ali Vardasbi, Gustavo Penha, Enrico Palumbo, Claudia Hauff, Hugues Bouchard and Mounia Lalmas. *As It Was: Aligning LLM Search Evaluation with Historical User Preferences*, SIGIR Industry track, 2026.
 
@@ -15,7 +17,7 @@ Ali Vardasbi, Gustavo Penha, Enrico Palumbo, Claudia Hauff, Hugues Bouchard and 
 Gustavo Penha, Aleksandr V. Petrov, Claudia Hauff, Enrico Palumbo, Ali Vardasbi, Edoardo D'Amico, Francesco Fabbri, Alice Wang, Praveen Chandar, Henrik Lindstrom, Hugues Bouchard, Mounia Lalmas. *Do LLM-judges Align with Human Relevance in Cranfield-style Recommender Evaluation?*, 2025. [[Preprint&#8594;]](https://www.arxiv.org/abs/2511.23312) 
 
 <img src="../img/conference-paper.png" height="20px">
-Gianluca Demartini, Claudia Hauff, Matthew Lease, Stefano Mizzaro, Kevin Roitero, Mark Sanderson, Falk Scholer, Chirag Shah, Damiano Spina, Paul Thomas, Arjen P. de Vries, Guido Zuccon. *Preaching to the ChoIR: Lessons IR Should Share with AI*, ICTIR, 2025.
+Gianluca Demartini, Claudia Hauff, Matthew Lease, Stefano Mizzaro, Kevin Roitero, Mark Sanderson, Falk Scholer, Chirag Shah, Damiano Spina, Paul Thomas, Arjen P. de Vries, Guido Zuccon. *Preaching to the ChoIR: Lessons IR Should Share with AI*, ICTIR, 2025. [[ACM Proceedings&#8594;]](https://dl.acm.org/doi/10.1145/3731120.3744612)
 
 <img src="../img/conference-paper.png" height="20px">
 Konstantina Palla, José Luis Redondo García, Claudia Hauff, Francesco Fabbri, Henrik Lindström, Daniel R. Taber, Andreas Damianou and Mounia Lalmas. *Policy-as-Prompt: Rethinking Content Moderation in the Age of Large Language Models*, FAccT, 2025. [[Preprint&#8594;]](https://arxiv.org/abs/2502.18695) 
