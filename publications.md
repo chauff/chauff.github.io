@@ -7,6 +7,8 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 
 ## 2026
 
+Ekaterina Garmash, Claudia Hauff, James Jacoby, Gracie Beal, Mounia Lalmas-Roelleke and Paul Bennett. *Supporting Human Memory with Audiobook Recaps: From Quality Discovery to Automatic Prompt Optimization*, CIKM Industry track, 2026.
+
 Maria Movin, Claudia Hauff, Aron Henriksson, Panagiotis Papapetrou. *Same Outcomes, Different Journeys: A Trace-Level Framework for Comparing Human and GUI-Agent Behavior in Production Search Systems*. [[Preprint&#8594;]](https://arxiv.org/abs/2604.07929) 
 
 <img src="../img/conference-paper.png" height="20px">
