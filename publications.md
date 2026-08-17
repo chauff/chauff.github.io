@@ -7,6 +7,12 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 
 ## 2026
 
+<img src="../img/workshop-paper.png" height="20px">
+Gustavo Penha, Aleksandr V. Petrov, Claudia Hauff, Enrico Palumbo, Ali Vardasbi, Edoardo D'Amico, Francesco Fabbri, Alice Wang, Praveen Chandar, Henrik Lindström, Hugues Bouchard and Mounia Lalmas. *From IR to RecSys: Evaluating LLM-based Judges in Cranfield-style Recommendation Collections*, Unified Search Workshop at RecSys, 2026.
+
+<img src="../img/workshop-paper.png" height="20px">
+Gustavo Penha, Juan Elenter, Claudia Hauff, Hugues Bouchard, Paul Bennett and Mounia Lalmas. *The Disconnect Between Better Descriptive Reasoning Trace Quality and Recommendation Effectiveness*, 3rd Workshop on Agentic and Generative AI for E-Commerce at RecSys, 2026.
+
 Ekaterina Garmash, Claudia Hauff, James Jacoby, Gracie Beal, Mounia Lalmas-Roelleke and Paul Bennett. *Supporting Human Memory with Audiobook Recaps: From Quality Discovery to Automatic Prompt Optimization*, CIKM Industry track, 2026.
 
 Maria Movin, Claudia Hauff, Aron Henriksson, Panagiotis Papapetrou. *Same Outcomes, Different Journeys: A Trace-Level Framework for Comparing Human and GUI-Agent Behavior in Production Search Systems*. [[Preprint&#8594;]](https://arxiv.org/abs/2604.07929) 
