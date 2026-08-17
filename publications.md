@@ -17,7 +17,7 @@ Gustavo Penha, Juan Elenter, Claudia Hauff, Hugues Bouchard, Paul Bennett and Mo
 Ekaterina Garmash, Claudia Hauff, James Jacoby, Gracie Beal, Mounia Lalmas-Roelleke and Paul Bennett. *Supporting Human Memory with Audiobook Recaps: From Quality Discovery to Automatic Prompt Optimization*, CIKM Industry track, 2026.
 
 <img src="../img/conference-paper.png" height="20px">
-Maria Movin, Claudia Hauff, Aron Henriksson, Panagiotis Papapetrou. *Same Outcomes, Different Journeys: A Trace-Level Framework for Comparing Human and GUI-Agent Behavior in Production Search Systems*. [[Preprint&#8594;]](https://arxiv.org/abs/2604.07929), Discovery Science, 2026. 
+Maria Movin, Claudia Hauff, Aron Henriksson, Panagiotis Papapetrou. *Same Outcomes, Different Journeys: A Trace-Level Framework for Comparing Human and GUI-Agent Behavior in Production Search Systems*, Discovery Science, 2026.  [[Preprint&#8594;]](https://arxiv.org/abs/2604.07929)
 
 <img src="../img/industry-talk.png" height="20px"> 
 Ali Vardasbi, Gustavo Penha, Enrico Palumbo, Claudia Hauff, Hugues Bouchard and Mounia Lalmas. *As It Was: Aligning LLM Search Evaluation with Historical User Preferences*, SIGIR Industry track, 2026.
